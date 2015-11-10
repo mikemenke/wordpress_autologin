@@ -1,8 +1,11 @@
 <?php
 /**
- * login_restration auto login users by Username and verfication key/hash
+ * login_registration auto login users by Username and verfication key/hash
  * This code need to be added in functions.php
  * please be sure to use an child-theme.
+ * 
+ * This code need to be modified for personal use.
+ * 
  */
 function login_registration() {
 	// get username
